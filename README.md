@@ -20,9 +20,9 @@
 
 ## What I learned &#128373;
 <ul>
-  <li>This my first project</li
+  <li>This my first project</li>
   <li>more about page transistion</li>
   <li>paraticed links</li>
-  </ul><br>
+  </ul>
 
 
