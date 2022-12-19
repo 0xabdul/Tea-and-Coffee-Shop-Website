@@ -1,0 +1,155 @@
+.a{
+    font-size:100px;
+    text-align: center;
+    margin-top:-100px;
+    letter-spacing:15px;
+    color:brown;
+
+ }
+ .b{
+     font-size: 50px;
+     word-spacing:15px;
+     letter-spacing:5px;
+     text-align: center;
+     margin-top:-70px;
+     color:brown;
+
+ }
+ .c{
+     border-style: solid;
+     border-left-width:30px ;
+     border-left-color:brown ;
+     border-right-width:1px;
+     border-top-width:1px;
+     border-bottom-width:1px;
+     background-color:lavenderblush;
+     border-right-color:brown ;
+     border-top-color: brown;
+     border-bottom-color:brown ;
+     border-radius:5px;
+     
+ }
+ .d{
+     font-size:100px;
+     letter-spacing:10px;
+     color:green;
+     
+ }
+ .e{
+     font-size:20px;
+     color:green;
+     margin-top: -50px;
+ 
+ }
+ .f{
+     font-size:20px;
+     
+ 
+
+     
+ }
+ a{
+     color:green;
+     text-decoration: none;
+ }
+ a:hover{
+     color:white;
+     background-color: green;
+     border-radius:7px;
+     font-family: monospace;
+ }
+ .g{
+     
+      text-align: center;
+      background-color:#C7ffda;
+      border-radius:7px;
+      margin-left:100px;
+      margin-right:100px;
+ }
+ .h{
+     font-size:100px;
+     color:brown;
+     text-align: center;
+ }
+ .i{
+     font-size:20px;
+     color:brown;
+     text-align: center;
+     margin-top:-50px;
+ }
+ .j{
+     font-size:20px;
+     text-align: center;
+ 
+ 
+ }
+.k{
+ background-color: lavenderblush;
+ margin-left:100px;
+ margin-right:100px;
+ border-radius:7px;
+}
+.aa{
+ font-size:30px;
+ float:right;
+ margin-top:20px;
+}
+@media(max-width:550px) {
+ .a{
+     font-size:50px;
+     margin-top:30px;
+ }
+ .b{
+     font-size:20px;
+     margin-top:30px;
+ }
+ .d{
+     font-size:40px;
+ }
+ .h{
+     font-size:40px;
+ }
+ .e{
+     margin-top:15px;
+     font-size:13px;
+ }
+ .i{
+     margin-top:15px;
+     font-size: 13px;
+ }
+ .g{
+     margin-left:15px;
+     margin-right:15px;
+ }
+ .k{
+     margin-left:15px;
+     margin-right:15px;
+
+ }
+ .c{
+     margin-left:1px;
+     margin-right:1px;
+ }
+ .aa{
+     font-size:20px;
+ }
+ 
+}
+body{
+    animation: transitionIn 0.75s;
+}
+
+@keyframes transitionIn {
+    from{
+        opacity:0;
+        transform:translateY(-150px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+
+    }
+    
+    
