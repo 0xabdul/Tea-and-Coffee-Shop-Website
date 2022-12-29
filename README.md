@@ -23,6 +23,6 @@
   <li>This my first project</li>
   <li>more about page transistion</li>
   <li>paraticed links</li>
-  </ul>
+  </ul>.
 
 
