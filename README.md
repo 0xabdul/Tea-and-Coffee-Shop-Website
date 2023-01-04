@@ -1,5 +1,5 @@
 # Tea-and-Coffee-Shop-Website<br>
-## previve<br>
+## preview<br>
 ## Links &#127882;<br>
 <ul>
 <li>Live Site URL : <a href="https://0xabdul.github.io/Tea-and-Coffee-Shop-Website/">Click Here</a></li>
